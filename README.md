@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm <b>Jacob Yue</b> 👋</h1>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img alt="Profile views" src="76ad4345b78fb134cc54384c1563404d.jpg" /></a>
   &nbsp;
   <a href="mailto:YOUR_EMAIL">✉️ Email</a>
   &nbsp;
