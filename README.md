@@ -42,6 +42,6 @@
 
 <!-- Optionally show activity graph -->
 <p align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&area=true" />
+  <img alt="Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&area=true](https://github.com/meloer101/meloer101/blob/e457243bf25fbf6c51013805b00de3ac0e282f83/b4dda5fa034483ef21b747320dd3d9f4.jpg)" />
 </p>
 
