@@ -15,7 +15,7 @@
 
 ## About me
 - 🎓 Graduate student of Information Systems @ XMU(厦门大学） (example)
-- 🔭 Interests: data analysis · video games · quant trading
+- 🔭 Interests: Coding · video games · quant trading
 - 📫 Reach me: <a href="jacobyu80@gmail.com">jacobyu80@gmail.com</a>
 
 ---
