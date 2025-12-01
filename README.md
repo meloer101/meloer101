@@ -1,47 +1,72 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Hi, I'm <b>Jacob Yue</b> 👋</h1>
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="Profile views" src="76ad4345b78fb134cc54384c1563404d.jpg" /></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">✉️ Email</a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-</p>
+# 👋 Hi, I'm **Jacob Yue（余yue）**
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/profile-banner.gif" alt="banner" width="480"/>
-</p>
+A front-end developer passionate about clean design, elegant code, and building delightful web experiences.  
+Currently studying **Anthropology @ Xiamen University**, and exploring the intersection of AI-assisted development & modern web engineering.
 
-## About me
-- 🎓 Graduate student of Information Systems @ XMU(厦门大学） (example)
-- 🔭 Interests: Coding · video games · quant trading
-- 📫 Reach me: <a href="jacobyu80@gmail.com">jacobyu80@gmail.com</a>
+一名前端开发者，热衷于简洁设计、优雅代码，并致力于构建愉悦的网页体验。  
+目前就读于**厦门大学人类学系**，正在探索 AI 辅助开发与现代 Web 工程的交汇点。
 
 ---
 
-## Languages & Tools
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-</p>
+## 🚀 Tech Stack 我的技术栈
+
+**Frontend:**  
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `TailwindCSS`  
+
+**Backend:**  
+`Prisma` · `PostgreSQL`
+
+**Tools:**  
+`Git` · `npm` · `Figma` · `Canvas` · `Cursor` · `Claude Code`  
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  &nbsp;
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-</p>
+## 🌟 Featured Projects（我的项目）
+
+### 🔹 **Stock Analysis Community Platform (Full-stack)**
+A learning & discussion platform for beginners to explore stock technical analysis.  
+Built with **Next.js + Prisma + PostgreSQL**, featuring chart visualization and a clean UI.
+
+### 🔹 **AI-powered Notes Manager**
+A lightweight web app for organizing and summarizing learning notes.  
+Designed and built with **React + TailwindCSS**, integrated with AI-assisted features.
+
+### 🔹 **Minimalist Portfolio Website**
+A personal site template designed in Figma and implemented with Next.js.  
+Fully responsive, elegant, and fast.
 
 ---
 
-<!-- Optionally show activity graph -->
-<p align="center">
-  <img alt="Activity Graph" src="b4dda5fa034483ef21b747320dd3d9f4.jpg" />
-</p>
+## 💡 What I’m Good At
+
+- ✨ **AI-driven development** using Cursor / Claude Code  
+- 🧩 Striking a balance between *design aesthetics* and *engineering quality*  
+- 🚀 Self-driven, fast learner, quick to adapt to new tech  
+- 🛠 Solid foundations in HTML/CSS/JS with clean and maintainable code style  
+- 🤝 Strong communication and teamwork spirit
+
+- ✨ 利用 Cursor / Claude Code 实现 **AI 驱动的开发**  
+- 🧩 在 *设计美学* 与 *工程质量* 之间取得平衡  
+- 🚀 自我驱动，学习迅速，能快速适应新技术  
+- 🛠 扎实的 HTML/CSS/JS 基础，代码风格整洁、可维护  
+- 🤝 出色的沟通能力与团队协作精神
+
+---
+
+## 📫 Contact Me（如何联系我）
+
+📧 **Email:**  
+- 2497289114@qq.com  
+- jacobyu80@gmail.com  
+
+🌍 **Location:** Xiamen, Fujian, China（福建省厦门市厦门大学）
+
+---
+
+> “Write code that feels good — clean, elegant, and meaningful.”
+
+Thanks for visiting my GitHub! 😊
+
 
