@@ -1,3 +1,5 @@
+<img src="https://github.com/meloer101/meloer101/blob/363fdb98ab3710aafada2f20d3cb565b134db247/76ad4345b78fb134cc54384c1563404d.jpg">
+
 <!-- README.md for GitHub Profile -->
 
 # 👋 Hi, I'm **Jacob Yue（余yue）**
@@ -70,5 +72,9 @@ Fully responsive, elegant, and fast.
 > “Write code that feels good — clean, elegant, and meaningful.”
 
 Thanks for visiting my GitHub! 😊
+
+<img src="https://github.com/meloer101/meloer101/blob/363fdb98ab3710aafada2f20d3cb565b134db247/b4dda5fa034483ef21b747320dd3d9f4.jpg">
+
+
 
 
