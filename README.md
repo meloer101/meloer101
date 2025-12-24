@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Jacob Yue（余yue）**
 
-<img src="https://github.com/meloer101/meloer101/blob/c146397e61fb3f88b91c6eba1958319b782524be/%E6%A0%A1%E5%BE%BD.png">
+
 
 A front-end developer passionate about clean design, elegant code, and building delightful web experiences.  
 Currently studying **Anthropology @ Xiamen University**, and exploring the intersection of AI-assisted development & modern web engineering.
