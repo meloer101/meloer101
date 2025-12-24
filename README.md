@@ -3,7 +3,7 @@
 <!-- README.md for GitHub Profile -->
 
 # 👋 Hi, I'm **Jacob Yue（余yue）**
-
+<img src='https://github.com/meloer101/meloer101/blob/6832d2feeca3a55b72a99eafd90526d2944fbdee/%E6%A0%A1%E5%BE%BD.png'>
 
 
 A front-end developer passionate about clean design, elegant code, and building delightful web experiences.  
