@@ -4,26 +4,26 @@
 
 # 🎯 **Jacob Yue** | 余yue
 
-### **Product Manager × VibeCoderAI**
+### **Product Manager × VibeCoder(Agent)**
 
-#### _Anthropology · Statistics · Design · Piano_
+#### _Anthropology · Statistics · Design · Music_
 
 <img src='https://github.com/meloer101/meloer101/blob/6832d2feeca3a55b72a99eafd90526d2944fbdee/%E6%A0%A1%E5%BE%BD.png' width="150" style="border-radius: 50%;" alt="avatar">
 
-> **将人文洞察与AI智能结合** | 用产品思维驱动Agent进化 | 设计 × 代码 × 思考力
+> The person who removed the Mac from the folder
 
 </div>
 
 ---
 
-## ⚡ 核心亮点 | Quick Highlights
+## ⚡ What i want to show you 我所想做
 
 | 💡 **能力**                     | 📊 **成果**                                 |
 | ------------------------------- | ------------------------------------------- |
-| **AI Agent Product Design**     | 从0到1设计2+AI产品，用户应用度>80%          |
-| **VibeCode Development**        | 使用Claude/Cursor实现高效迭代，代码质量↑40% |
-| **Data-Driven Decision Making** | 统计学背景，驱动10+次产品数据分析与优化     |
-| **Human-AI Interaction**        | 人类学视角深度理解用户心理模型与行为模式    |
+| **用户体验**     | 从适应用户，到共鸣用户，再到领导用户        |
+| **Vibe coding**        | 从解放双手，到解放大脑，再到解放时间 |
+| **Data Driven** | 从直觉驱动，到数据驱动，再到思维驱动     |
+| **人文洞察**        | 从制造产品，到制造方向，再到制造未来   |
 
 ---
 
@@ -115,10 +115,10 @@
 
 ## 🎮 个人兴趣 | Personal Interests
 
-| 🎹 **Piano**        | 古典音乐爱好者，工作间隙创作Electronic & Ambient曲目。见：[Spotify Playlist](https://open.spotify.com/playlist/vibecode) |
+| 🎹 **Piano**        | 克莱德曼和嘻哈爱好者，见：[Spotify Playlist](https://open.spotify.com/playlist/vibecode) |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **🎨 Design**       | UI/UX设计师，对极简主义和微交互着迷，关注前沿设计趋势                                                                    |
-| **📊 Anthropology** | 用人文科学理解技术与社会，研究"AI伦理"与"人机共存"的未来                                                                 |
+| **🎨 Design**       | 梦想做出梦想中的完美UI/UX设计，我的意思是只用黑色和白色                                                                   |
+| **📊 Anthropology** | 偶尔的人类学和社会学爱好者，奇思妙想的数据来源                                                                 |
 | **📸 Photography**  | 记录生活的光影瞬间，镜头视角探索城市与人的故事                                                                           |
 
 ---
@@ -129,7 +129,7 @@
 
 | **📧 Email**        | **🔗 Social**                                 | **💼 Availability**            |
 | ------------------- | --------------------------------------------- | ------------------------------ |
-| jacobyu80@gmail.com | [LinkedIn](https://linkedin.com/in/meloer101) | 🟢 **Open to Opportunities**   |
+| jacobyu80@gmail.com | [QQ](2497289114@qq.com) | 🟢 **Open to Opportunities**   |
 | 2497289114@qq.com   | [X/Twitter](https://twitter.com/meloer101)    | **PM / Product Strategy / AI** |
 
 **🌍 Location:** Xiamen, China
