@@ -59,36 +59,6 @@
 
 ---
 
-## 🚀 项目精选 | Featured Projects
-
-### 🎯 **[AI Agent Framework for Product Analytics](https://github.com/meloer101/ai-agent-analytics)**
-
-**角色** | Product Manager + VibeCode Developer  
-**描述** | 一个零代码AI Agent框架，赋能非技术PM快速构建数据分析Agent，实现自动化用户洞察挖掘  
-**成果** | 30+企业用户，月活用户增长150%，降低分析成本60%  
-**技术** | Next.js · TypeScript · Claude API · PostgreSQL · Prompt Engineering
-
----
-
-### 🎨 **[Design System + Component Library](https://github.com/meloer101/design-essence)**
-
-**角色** | Product Designer + Frontend Developer  
-**描述** | 面向AI产品的设计系统，包含120+组件、完整设计规范与开发文档，提升团队交付效率  
-**成果** | 支撑5+产品线，设计交付时间↓45%，开发满意度⭐⭐⭐⭐⭐  
-**技术** | React · TailwindCSS · Figma Tokens · Storybook · Accessibility
-
----
-
-### 🧠 **[VibeCode IDE — AI-Powered Development Environment](https://github.com/meloer101/vibecode-ide)**
-
-**角色** | Founder · Product Manager · Lead Developer  
-**描述** | 一个融合人类学洞察的AI编码环境，通过理解开发者"心流状态"优化开发体验  
-**成果** | 开发效率↑65%，代码质量↑40%，社区6K+ GitHub Stars  
-**技术** | VS Code Extension · TypeScript · Claude API · Real-time Collaboration
-
-
----
-
 ## 📚 博客 & 分享 | Writing & Speaking
 
 - **📖 [Blogger](https://new-blog-web-five.vercel.app/)** — 深度文章：AI Product Management、VibeCode开发思路
