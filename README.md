@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="/Users/m/Desktop/meloer101/573072056f8ec08d55d00b5199a98bc9.png" alt="Profile Picture">
+<img src="573072056f8ec08d55d00b5199a98bc9.png" alt="Profile Picture">
 
 # 🎯 **Jacob Yue** | 余yue
 
