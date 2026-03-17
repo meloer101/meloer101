@@ -86,37 +86,23 @@
 **成果** | 开发效率↑65%，代码质量↑40%，社区6K+ GitHub Stars  
 **技术** | VS Code Extension · TypeScript · Claude API · Real-time Collaboration
 
----
-
-## ✨ 作品 & 演示 | Demos & Showcases
-
-### 🎬 Video Demos
-
-- [🎯 AI Agent in 2分钟](https://youtu.be/demo-agent) — See VibeCode Agent autonomously solve product tasks
-- [🎨 Design System Tour](https://youtu.be/design-walkthrough) — Complete design system walkthrough
-
-### 🔗 Live Projects
-
-- [Interactive Product Dashboard](https://demo-dashboard.vercel.app) — Real-time analytics with AI insights
-- [Design System Storybook](https://design-system-storybook.vercel.app) — 120+ component library live
 
 ---
 
 ## 📚 博客 & 分享 | Writing & Speaking
 
-- **📖 [Medium](https://medium.com/@meloer101)** — 深度文章：AI Product Management、VibeCode开发思路
+- **📖 [Blogger](https://new-blog-web-five.vercel.app/)** — 深度文章：AI Product Management、VibeCode开发思路
 - **🎤 [小红书](https://xiaohongshu.com/@meloer101)** — 产品经理日常、AI应用分享、钢琴创作笔记
 - **✍️ 文章精选：**
-  - _「从Agent到Assistant：重新定义人机交互」_
-  - _「数据洞察驱动的产品决策：人类学的视角」_
-  - _「设计 + AI：打造有灵魂的产品」_
+  - _「树林里分出两条路（AI创业的两种不同模式）」_
+  - _「好的设计是简单和复杂的结合」_
+  - _「IYKYK， bazaar and Macbook Neo」_
 
 ---
 
 ## 🎮 个人兴趣 | Personal Interests
-
-| 🎹 **Piano**        | 克莱德曼和嘻哈爱好者，见：[Spotify Playlist](https://open.spotify.com/playlist/vibecode) |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 🎹 **Piano**        | 克莱德曼和嘻哈爱好者 |
 | **🎨 Design**       | 梦想做出梦想中的完美UI/UX设计，我的意思是只用黑色和白色                                                                   |
 | **📊 Anthropology** | 偶尔的人类学和社会学爱好者，奇思妙想的数据来源                                                                 |
 | **📸 Photography**  | 记录生活的光影瞬间，镜头视角探索城市与人的故事                                                                           |
@@ -136,14 +122,6 @@
 
 </div>
 
----
-
-## 🎭 最后的话 | Closing Thoughts
-
-> **"Code with purpose, design with empathy, think like an anthropologist — that's how we build AI that feels right."**
-
-💫 Constantly exploring the unknown intersection of **Product · AI · Human**.  
-🚀 Let's build something that matters together.
 
 ---
 
