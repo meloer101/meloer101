@@ -6,11 +6,7 @@
 
 ### **Product Manager × VibeCoder(Agent)**
 
-#### _Anthropology · Statistics · Design · Music_
-
 <img src='https://github.com/meloer101/meloer101/blob/6832d2feeca3a55b72a99eafd90526d2944fbdee/%E6%A0%A1%E5%BE%BD.png' width="150" style="border-radius: 50%;" alt="avatar">
-
-> The person who removed the Mac from the folder
 
 </div>
 
