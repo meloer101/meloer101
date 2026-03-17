@@ -63,14 +63,7 @@
   - _「好的设计是简单和复杂的结合」_
   - _「IYKYK， bazaar and Macbook Neo」_
 
----
 
-## 🎮 个人兴趣 | Personal Interests
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 🎹 **Piano**        | 克莱德曼和嘻哈爱好者 |
-| **🎨 Design**       | 梦想做出梦想中的完美UI/UX设计，我的意思是只用黑色和白色                                                                   |
-| **📊 Anthropology** | 偶尔的人类学和社会学爱好者，奇思妙想的数据来源                                                                 |
-| **📸 Photography**  | 记录生活的光影瞬间，镜头视角探索城市与人的故事                                                                           |
 
 ---
 
@@ -93,7 +86,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meloer101&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meloer101&layout=compact&theme=tokyonight)
 
 **Thanks for stopping by! 🙏**
 
