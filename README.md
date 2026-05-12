@@ -83,7 +83,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meloer101&show_icons=true&theme=tokyonight)
+[![GitHub Stars](https://img.shields.io/github/stars/meloer101/meloer101?style=social)](https://github.com/meloer101/meloer101/stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/meloer101?style=social)](https://github.com/meloer101?tab=followers)
 
 **Thanks for stopping by! 🙏**
 
